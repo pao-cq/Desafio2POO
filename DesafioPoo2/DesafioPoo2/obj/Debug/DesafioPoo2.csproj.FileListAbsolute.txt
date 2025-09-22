@@ -1,0 +1,8 @@
+C:\Users\Paola Carballo\Documents\VIRTUAL 2025\DesafioPoo2\DesafioPoo2\obj\Debug\DesafioPoo2.csproj.AssemblyReference.cache
+C:\Users\Paola Carballo\Documents\VIRTUAL 2025\DesafioPoo2\DesafioPoo2\obj\Debug\DesafioPoo2.csproj.CoreCompileInputs.cache
+C:\Users\Paola Carballo\Documents\VIRTUAL 2025\DesafioPoo2\DesafioPoo2\bin\Debug\DesafioPoo2.exe.config
+C:\Users\Paola Carballo\Documents\VIRTUAL 2025\DesafioPoo2\DesafioPoo2\bin\Debug\DesafioPoo2.exe
+C:\Users\Paola Carballo\Documents\VIRTUAL 2025\DesafioPoo2\DesafioPoo2\bin\Debug\DesafioPoo2.pdb
+C:\Users\Paola Carballo\Documents\VIRTUAL 2025\DesafioPoo2\DesafioPoo2\obj\Debug\DesafioPoo2.exe
+C:\Users\Paola Carballo\Documents\VIRTUAL 2025\DesafioPoo2\DesafioPoo2\obj\Debug\DesafioPoo2.pdb
+C:\Users\Paola Carballo\Documents\VIRTUAL 2025\DesafioPoo2\DesafioPoo2\obj\Debug\DesafioPoo2.exe.config
